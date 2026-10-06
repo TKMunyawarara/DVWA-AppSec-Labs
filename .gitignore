@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials/
+
+# Session/token files
+cookies.txt
+session.txt
+tokens.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
