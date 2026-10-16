@@ -13,7 +13,7 @@ The purpose of this repository is to document vulnerabilities, attack techniques
 | # | Lab | Topics | Status |
 |---|---|---|---|
 | 01 | Brute Force | Burp Intruder, Hydra, WFuzz, CSRF, Session Handling | ✅ Complete |
-| 02 | Command Injection | Coming soon | ⏳ |
+| 02 | Command Injection | Coming soon | ✅ Complete |
 | 03 | XSS | Coming soon | ⏳ |
 | 04 | SQL Injection | Coming soon | ⏳ |
 | 05 | File Inclusion | Coming soon | ⏳ |
